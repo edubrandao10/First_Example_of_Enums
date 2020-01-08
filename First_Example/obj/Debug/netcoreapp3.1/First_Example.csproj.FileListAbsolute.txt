@@ -1,0 +1,11 @@
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.exe
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.deps.json
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.runtimeconfig.json
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.runtimeconfig.dev.json
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.dll
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\bin\Debug\netcoreapp3.1\First_Example.pdb
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\obj\Debug\netcoreapp3.1\First_Example.csprojAssemblyReference.cache
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\obj\Debug\netcoreapp3.1\First_Example.AssemblyInfoInputs.cache
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\obj\Debug\netcoreapp3.1\First_Example.AssemblyInfo.cs
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\obj\Debug\netcoreapp3.1\First_Example.dll
+C:\Users\dusil\Desktop\C#2\First_Example\First_Example\obj\Debug\netcoreapp3.1\First_Example.pdb
